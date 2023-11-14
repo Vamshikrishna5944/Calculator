@@ -10,7 +10,7 @@ public class Main {
         logger.info("Calculator Begins!!");
         //some changes
         Scanner reader = new Scanner(System.in);
-        int op, flag=0;
+        int op, flag =0;
         int num, exp;
 
         do{
