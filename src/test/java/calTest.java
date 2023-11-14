@@ -27,7 +27,7 @@ public class calTest {
     }
 
     @Test
-    public void multiplication() {
+    public void multiplication()  {
         int a = 2;
         int aa = 2;
         int expectedResult = 4;
